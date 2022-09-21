@@ -7,4 +7,4 @@ Steps to do ...
 2. webpack configuration
 3. npm i firebase
 4. create firebase database 
-5. npm run install && npm run build 
+5. npm install && npm run build 
